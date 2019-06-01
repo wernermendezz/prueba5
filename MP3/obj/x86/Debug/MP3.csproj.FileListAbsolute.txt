@@ -1,0 +1,40 @@
+D:\Users\gramz\Documents\Visual Studio 2010\Projects\Ejemplos Ingenieria\MP3\MP3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\gramz\Documents\Visual Studio 2010\Projects\Ejemplos Ingenieria\MP3\MP3\obj\x86\Debug\MP3.Form1.resources
+D:\Users\gramz\Documents\Visual Studio 2010\Projects\Ejemplos Ingenieria\MP3\MP3\obj\x86\Debug\MP3.Properties.Resources.resources
+D:\Users\gramz\Documents\Visual Studio 2010\Projects\Ejemplos Ingenieria\MP3\MP3\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\gramz\Documents\Visual Studio 2010\Projects\Ejemplos Ingenieria\MP3\MP3\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\gramz\Documents\Visual Studio 2010\Projects\Ejemplos Ingenieria\MP3\MP3\obj\x86\Debug\Interop.WMPLib.dll
+D:\Users\gramz\Documents\Visual Studio 2010\Projects\Ejemplos Ingenieria\MP3\MP3\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Users\gramz\Documents\Visual Studio 2010\Projects\Ejemplos Ingenieria\MP3\MP3\obj\x86\Debug\MP3.csproj.ResolveComReference.cache
+D:\Users\gramz\Documents\Visual Studio 2010\Projects\Ejemplos Ingenieria\MP3\MP3\bin\Debug\MP3.exe
+D:\Users\gramz\Documents\Visual Studio 2010\Projects\Ejemplos Ingenieria\MP3\MP3\bin\Debug\MP3.pdb
+D:\Users\gramz\Documents\Visual Studio 2010\Projects\Ejemplos Ingenieria\MP3\MP3\bin\Debug\Interop.WMPLib.dll
+D:\Users\gramz\Documents\Visual Studio 2010\Projects\Ejemplos Ingenieria\MP3\MP3\bin\Debug\AxInterop.WMPLib.dll
+D:\Users\gramz\Documents\Visual Studio 2010\Projects\Ejemplos Ingenieria\MP3\MP3\obj\x86\Debug\MP3.exe
+D:\Users\gramz\Documents\Visual Studio 2010\Projects\Ejemplos Ingenieria\MP3\MP3\obj\x86\Debug\MP3.pdb
+D:\Users\gramz\Documents\Visual Studio 2013\Projects\Ejercicios Clases\MP3\MP3\obj\x86\Debug\Interop.WMPLib.dll
+D:\Users\gramz\Documents\Visual Studio 2013\Projects\Ejercicios Clases\MP3\MP3\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Users\gramz\Documents\Visual Studio 2013\Projects\Ejercicios Clases\MP3\MP3\obj\x86\Debug\MP3.csproj.ResolveComReference.cache
+D:\Users\gramz\Documents\Visual Studio 2013\Projects\Ejercicios Clases\MP3\MP3\obj\x86\Debug\MP3.exe
+D:\Users\gramz\Documents\Visual Studio 2013\Projects\Ejercicios Clases\MP3\MP3\obj\x86\Debug\MP3.pdb
+D:\Users\gramz\Documents\Visual Studio 2013\Projects\Ejercicios Clases\MP3\MP3\bin\Debug\MP3.exe
+D:\Users\gramz\Documents\Visual Studio 2013\Projects\Ejercicios Clases\MP3\MP3\bin\Debug\MP3.pdb
+D:\Users\gramz\Documents\Visual Studio 2013\Projects\Ejercicios Clases\MP3\MP3\bin\Debug\Interop.WMPLib.dll
+D:\Users\gramz\Documents\Visual Studio 2013\Projects\Ejercicios Clases\MP3\MP3\bin\Debug\AxInterop.WMPLib.dll
+D:\Users\gramz\Documents\Visual Studio 2013\Projects\Ejercicios Clases\MP3\MP3\obj\x86\Debug\MP3.csprojResolveAssemblyReference.cache
+D:\Users\gramz\Documents\Visual Studio 2013\Projects\Ejercicios Clases\MP3\MP3\obj\x86\Debug\MP3.Form1.resources
+D:\Users\gramz\Documents\Visual Studio 2013\Projects\Ejercicios Clases\MP3\MP3\obj\x86\Debug\MP3.Properties.Resources.resources
+D:\Users\gramz\Documents\Visual Studio 2013\Projects\Ejercicios Clases\MP3\MP3\obj\x86\Debug\MP3.csproj.GenerateResource.Cache
+C:\Users\Cristian\Documents\Visual Studio 2015\Projects\MP3\MP3\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Cristian\Documents\Visual Studio 2015\Projects\MP3\MP3\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Cristian\Documents\Visual Studio 2015\Projects\MP3\MP3\obj\x86\Debug\MP3.csproj.ResolveComReference.cache
+C:\Users\Cristian\Documents\Visual Studio 2015\Projects\MP3\MP3\obj\x86\Debug\MP3.exe
+C:\Users\Cristian\Documents\Visual Studio 2015\Projects\MP3\MP3\obj\x86\Debug\MP3.pdb
+C:\Users\Cristian\Documents\Visual Studio 2015\Projects\MP3\MP3\bin\Debug\MP3.exe
+C:\Users\Cristian\Documents\Visual Studio 2015\Projects\MP3\MP3\bin\Debug\MP3.pdb
+C:\Users\Cristian\Documents\Visual Studio 2015\Projects\MP3\MP3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Cristian\Documents\Visual Studio 2015\Projects\MP3\MP3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Cristian\Documents\Visual Studio 2015\Projects\MP3\MP3\obj\x86\Debug\MP3.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Documents\Visual Studio 2015\Projects\MP3\MP3\obj\x86\Debug\MP3.Form1.resources
+C:\Users\Cristian\Documents\Visual Studio 2015\Projects\MP3\MP3\obj\x86\Debug\MP3.Properties.Resources.resources
+C:\Users\Cristian\Documents\Visual Studio 2015\Projects\MP3\MP3\obj\x86\Debug\MP3.csproj.GenerateResource.Cache
